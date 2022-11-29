@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC.csproj": {}
+    "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC\\DesignPatternWIC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC.csproj": {
+    "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC\\DesignPatternWIC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC.csproj",
+        "projectUniqueName": "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC\\DesignPatternWIC.csproj",
         "projectName": "DesignPatternWIC",
-        "projectPath": "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC.csproj",
+        "projectPath": "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC\\DesignPatternWIC.csproj",
         "packagesPath": "C:\\Users\\AmitM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\obj\\",
+        "outputPath": "C:\\Users\\AmitM\\OneDrive\\מסמכים\\C#\\Assignments\\DesignPatternWIC\\DesignPatternWIC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AmitM\\AppData\\Roaming\\NuGet\\NuGet.Config",

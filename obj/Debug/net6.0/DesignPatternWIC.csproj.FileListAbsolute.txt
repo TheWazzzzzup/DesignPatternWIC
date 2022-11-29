@@ -1,0 +1,15 @@
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\bin\Debug\net6.0\DesignPatternWIC.exe
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\bin\Debug\net6.0\DesignPatternWIC.deps.json
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\bin\Debug\net6.0\DesignPatternWIC.runtimeconfig.json
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\bin\Debug\net6.0\DesignPatternWIC.dll
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\bin\Debug\net6.0\DesignPatternWIC.pdb
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.csproj.AssemblyReference.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.AssemblyInfoInputs.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.AssemblyInfo.cs
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.csproj.CoreCompileInputs.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.dll
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\refint\DesignPatternWIC.dll
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.pdb
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\DesignPatternWIC.genruntimeconfig.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\DesignPatternWIC\DesignPatternWIC\obj\Debug\net6.0\ref\DesignPatternWIC.dll
